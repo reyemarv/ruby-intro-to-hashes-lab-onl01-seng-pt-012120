@@ -45,7 +45,7 @@ def monopoly_with_third_tier
   	  
   	}
 		}
-  	}  
+  	  
 	monopoly 
 
 end
