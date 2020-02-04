@@ -4,8 +4,8 @@ def new_hash
 end
 
 def actor
-  new_hash = {ame: "Dwayne The Rock Johnson"}
-  new_hash
+  new_actor = {name: "Dwayne The Rock Johnson"}
+  new_actor
 end
 
 def monopoly
