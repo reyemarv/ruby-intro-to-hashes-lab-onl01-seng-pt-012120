@@ -5,6 +5,7 @@ end
 
 def actor
   new_hash = {ame: "Dwayne The Rock Johnson"}
+  new_hash
 end
 
 def monopoly
